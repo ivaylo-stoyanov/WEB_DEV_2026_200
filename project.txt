@@ -1,7 +1,3 @@
 My Project;
 
-My Project 2;
-
-My Project Commit 3
-
 MY BRANCH CHANGE 3000;
